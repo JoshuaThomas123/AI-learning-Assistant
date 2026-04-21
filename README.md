@@ -5,7 +5,7 @@ What It Does
 Upload any educational PDF and the application will instantly generate:
 Summaries: breakdowns of key content
 Flashcards: question and answer pairs for active recall
-Mind Maps: suggesting nodes for use 
+Mind Maps:  creates a list of key concept nodes to help structure your understanding
 Quiz Questions: auto-generated questions to test understanding
 
 Tech Stack
